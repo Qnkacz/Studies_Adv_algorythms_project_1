@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1550657897 source:d:\student\desktop\algorytmy zaawansowane\main.cpp
+	"stringSearch.h"
+
+1550659138 d:\student\desktop\algorytmy zaawansowane\stringsearch.h
+	<iostream>
+	<vector>
+
+1550657938 source:d:\student\desktop\algorytmy zaawansowane\stringsearch.cpp
+	"stringSearch.h"
+
+1551262410 source:d:\student\downloads\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.cpp
+	"stringSearch.h"
+
+1551262946 d:\student\downloads\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.h
+	<iostream>
+	<vector>
+
+1551259687 source:d:\student\downloads\algorytmy zaawansowane_1\algorytmy zaawansowane_1\main.cpp
+	"stringSearch.h"
+
+1551866729 source:d:\student\downloads\algorytmy zaawansowane_2\algorytmy zaawansowane_1\algorytmy zaawansowane_1\main.cpp
+	"stringSearch.h"
+
+1551869041 d:\student\downloads\algorytmy zaawansowane_2\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.h
+	<iostream>
+	<vector>
+
+1551263872 source:d:\student\downloads\algorytmy zaawansowane_2\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.cpp
+	"stringSearch.h"
+
+1553639775 source:d:\studia\zaawansowane algorytmy\algorytmy zaawansowane_3\algorytmy zaawansowane_3\algorytmy zaawansowane_1\algorytmy zaawansowane_1\main.cpp
+	"stringSearch.h"
+
+1553637586 d:\studia\zaawansowane algorytmy\algorytmy zaawansowane_3\algorytmy zaawansowane_3\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.h
+	<iostream>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1553637118 source:d:\studia\zaawansowane algorytmy\algorytmy zaawansowane_3\algorytmy zaawansowane_3\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.cpp
+	"stringSearch.h"
+
+1553637118 source:d:\studia\zaawansowane algorytmy\algorytmy zaawansowane_koniec_mamnadzieje\algorytmy zaawansowane_3\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.cpp
+	"stringSearch.h"
+
+1553637586 d:\studia\zaawansowane algorytmy\algorytmy zaawansowane_koniec_mamnadzieje\algorytmy zaawansowane_3\algorytmy zaawansowane_1\algorytmy zaawansowane_1\stringsearch.h
+	<iostream>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
